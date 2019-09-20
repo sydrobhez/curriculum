@@ -2442,6 +2442,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Roockeyzz's Solution (Easy)](https://github.com/roockeyzz/roockeyzz.github.io) - [View in Browser](https://roockeyzz.github.io)
 * [zgparsons's Solution (Easy)](https://github.com/zgparsons/google-homepage) - [View in Browser](https://zgparsons.github.io/google-homepage/)
 * [anth-dev's Solution (Easy)](https://github.com/anth-dev/google-homepage) - [View in Browser](https://anth-dev.github.io/google-homepage/)
+* [sydrobhez's Solution (Easy)](https://github.com/sydrobhez/google-homepage) - [View in Browser](https://sydrobhez.github.io/google-homepage/)
 </details>
 
 ### Additional Resources
